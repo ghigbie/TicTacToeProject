@@ -1,7 +1,7 @@
 table {
 	width: 33%;
 	height: 250px;
-	text-align: center;
+	table-layout: center;
 }
 
 h1 {
@@ -10,10 +10,12 @@ h1 {
 
 .box {
 
+
 }
 
 .verticle1, .verticle2 {
 	border-right: 3px solid #000000;
+	border-bottom: 3px solid #000000;
 }
 
 /*.verticle2 {
