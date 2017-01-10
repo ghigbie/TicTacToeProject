@@ -10,7 +10,7 @@ table {
     margin-right: auto;
 }
 
-.boxVerticle {
+.verticle {
 	border-left: 3px solid #000;
 
 }
@@ -18,6 +18,10 @@ table {
 .downLeft{
 	border-bottom: 3px solid #000;
 	border-left: 3px solid #000;
+}
+
+.left{
+	border-bottom: 3px solid #000;
 }
 
 
